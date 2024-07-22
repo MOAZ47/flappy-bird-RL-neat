@@ -4,6 +4,8 @@
 
 "Flappy Bird" revolutionized the mobile gaming industry in 2013. In this project, I have developed an intelligent agent to play Flappy Bird autonomously using the NeuroEvolution of Augmenting Topologies (NEAT) algorithm. This project was part of the AIDI 2001 course under the guidance of Sadia Malik.
 
+![My Image](images/my_image.png)
+
 ## Project Overview
 
 The aim of this project is to demonstrate the effectiveness of a genetic algorithm in training an intelligent agent to play Flappy Bird. Traditionally, reinforcement learning has been used for such tasks, but here we leverage the NEAT algorithm to evolve neural networks that control the bird in the game.
