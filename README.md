@@ -4,7 +4,7 @@
 
 "Flappy Bird" revolutionized the mobile gaming industry in 2013. In this project, I have developed an intelligent agent to play Flappy Bird autonomously using the NeuroEvolution of Augmenting Topologies (NEAT) algorithm. This project was part of the AIDI 2001 course under the guidance of Sadia Malik.
 
-![My Image](imgs/run.gif)
+![Inference Image](imgs/run.gif)
 
 ## Project Overview
 
@@ -60,6 +60,7 @@ The primary module used for development is Pygame. The game consists of three ma
 - **Fitness Function:** Combines collision penalty, alive time, and game score.
 - **Inputs:** Horizontal distance between the bird and the pipe, vertical distance between the bird and the top/bottom pipes.
 - **Neural Network:** A shallow neural network with one hidden layer.
+![Inference Image](imgs/training.gif)
 
 ### Key Hyperparameters
 
