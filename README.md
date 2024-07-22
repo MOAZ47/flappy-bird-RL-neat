@@ -4,7 +4,9 @@
 
 "Flappy Bird" revolutionized the mobile gaming industry in 2013. In this project, I have developed an intelligent agent to play Flappy Bird autonomously using the NeuroEvolution of Augmenting Topologies (NEAT) algorithm. 
 
-<img src="imgs/run.gif" width="200" height="400">
+<div style="text-align: center;">
+<img src="imgs/run.gif" width="300" height="400">
+</div>
 
 ## Project Overview
 
